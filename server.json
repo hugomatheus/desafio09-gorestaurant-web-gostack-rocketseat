@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/61/61/cc/caldissimo-ele-e-la.jpg",
+      "name": "tripinha da casa",
+      "price": "16.89",
+      "description": "top",
+      "available": false,
+      "id": 4
     }
   ]
 }
